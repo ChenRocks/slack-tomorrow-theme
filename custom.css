@@ -367,7 +367,7 @@ body:not(.loading) #team_menu.active {
   right: 0;
   width: 170px;
   height: 300px;
-  background: #1d1f21;
+  color: #1d1f21;
   /*background: url("https://cdn.rawgit.com/wdiazux/slack-tomorrow-theme/master/background.png") no-repeat bottom right;*/
   background-size: contain;
 }
